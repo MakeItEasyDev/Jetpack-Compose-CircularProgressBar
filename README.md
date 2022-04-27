@@ -1,5 +1,22 @@
 # Jetpack-Compose-CircularProgressaBar
 
-Youtube link -> https://youtu.be/NjYRY2jLACo
+## [Watch it On YouTube](https://youtu.be/NjYRY2jLACo)
 
 ![circular_progress_bar](https://user-images.githubusercontent.com/89842411/132832704-5f6e3118-f132-4750-9715-b916b8f1fd9e.png)
+
+## License
+```
+Copyright 2020 MakeItEasyDev
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
